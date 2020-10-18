@@ -1,0 +1,76 @@
+body{
+    background-color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contenedor{
+    background-color: white;
+    border-radius: 5px;
+    width: 300px;
+    height: fit-content;
+    position: absolute;
+    font-size: 15px;
+    padding: 20px;
+    margin: 180px 0px 0px 500px;
+
+}
+.contenido1{
+    border: 1px solid rgba(128, 128, 128, 0.178);
+    border-radius: 5px;
+    width: 50px;
+    height: fit-content;
+    margin: 0px 0px 0px 222px;
+    text-align: center;
+    padding: 0px;
+    position: absolute;
+}
+.contenido{
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin: 0px 0px 0px 10px;
+    padding: 0px;
+    position: absolute;
+}
+.contenido2{
+    border: 1px solid rgba(128, 128, 128, 0.178);
+    border-left: 3px solid hotpink;
+    border-radius: 5px;
+    width: 250px;
+    height: fit-content;
+    margin: 50px 0px 0px 10px;
+    text-align: left;
+    padding: 5px;
+    position: relative;
+}
+.contenido3{
+    border: 1px solid rgba(128, 128, 128, 0.178);
+    border-left: 3px solid rgb(206, 174, 34);
+    border-radius: 5px;
+    width: 250px;
+    height: fit-content;
+    margin: 5px 0px 0px 10px;
+    text-align: left;
+    padding: 5px;
+    position: relative;
+}
+.contenido4{
+    border: 1px solid rgba(128, 128, 128, 0.178);
+    border-left: 3px solid rgb(5, 138, 105);
+    border-radius: 5px;
+    width: 250px;
+    height: fit-content;
+    margin: 5px 0px 0px 10px;
+    text-align: left;
+    padding: 5px;
+    position: relative;
+}
+h1{
+    font-size: 18px;
+}
+h2{
+    font-size: 15px;
+}
+p{
+    font-size: 10px;
+    color: rgba(75, 73, 73, 0.445);
+}
